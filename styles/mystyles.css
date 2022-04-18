@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold
+}
+
+.italics {
+    font-style: italic;
+}
+
+.margin {
+    margin: 50px;
+}
